@@ -5,11 +5,11 @@ Puedes poner en práctica tus habilidaes revísando y utilizando el código a co
 
 ## ÍNDICE
 
-* [1. Intro](https://github.com/Valeria-db/clon-de-google/edit/main/README.md#1-intro)
-* [2. Demo](https://github.com/Valeria-db/clon-de-google/edit/main/README.md#2-demo)
-* [3. ¿Qúe construirás?](https://github.com/Valeria-db/clon-de-google/edit/main/README.md#3-q%C3%BAe-construir%C3%A1s)
-* [4. Objetivos de aprendizaje](https://github.com/Valeria-db/clon-de-google/edit/main/README.md#4-objetivos-de-aprendizaje)
-* [5. Requisitos](https://github.com/Valeria-db/clon-de-google/edit/main/README.md#5-requisitos)
+* [1. Intro](https://github.com/Valeria-db/clon-de-google#1-intro)
+* [2. Demo](https://github.com/Valeria-db/clon-de-google#2-demo)
+* [3. ¿Qúe construirás?](https://github.com/Valeria-db/clon-de-google#3-q%C3%BAe-construir%C3%A1s)
+* [4. Objetivos de aprendizaje](https://github.com/Valeria-db/clon-de-google#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/Valeria-db/clon-de-google#5-requisitos)
 
 
 ****
@@ -25,7 +25,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("./../imagenes/googleclon.png")
+![imagen]("./../images/googleclon.png")
 
 
 ## 3. ¿Qúe construirás?
